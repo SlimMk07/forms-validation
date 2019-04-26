@@ -1,0 +1,36 @@
+.background{
+    background-image: linear-gradient(to right bottom, #593544, #52324a, #473151, #363257, #1b335a);
+    height: 61rem;
+    font-size: 150%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+}
+.bots{
+    height: 2.5rem;
+    width: 20rem;
+    
+}
+.inputs{
+    background-image: linear-gradient(to bottom, #2c2739, #2a273a, #29283b, #27283b, #25293c);
+    font-size: 70%;
+    color: white;
+    height: 2.5rem;
+    width: 20rem;
+}
+.comment{
+    background-image: linear-gradient(to bottom, #2c2739, #2a273a, #29283b, #27283b, #25293c);
+    font-size: 70%;
+    color: white;
+    height:10rem ;
+    width:20rem;
+
+}
+p{
+    color: red;
+    font-size: 70%
+    
+}
+i{color: greenyellow}
